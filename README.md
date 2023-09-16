@@ -15,7 +15,7 @@ Desenvolver uma aplicação em Flutter que permita ao usuário criar listas de l
 
 Foram criadas páginas relacionadas ao cadastro dos livros e listas, bem como à edição destes itens. Também há paginas dedicadas à apresentação das listas de itens persistidos.
 
-<img src="atv_persistencia/assets/images/imagem-resultado-final.png" width="100%">
+<img src="atv_persistencia/assets/images/imagem-resultado-final.png" width="500" align="CENTER">
 
 ### Tecnologias Utilizadas
 
