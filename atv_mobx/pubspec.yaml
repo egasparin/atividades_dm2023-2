@@ -1,0 +1,29 @@
+name: atv_mobx
+
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+
+  flutter_mobx: ^2.0.6+5
+  mobx: ^2.2.0
+  mobx_codegen: ^2.3.0
+ 
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  build_runner: ^2.4.6
+  
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

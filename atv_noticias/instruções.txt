@@ -1,0 +1,26 @@
+Objetivo: Desenvolver um aplicativo em Flutter que apresente uma página inicial de notícias, seguindo os princípios do Material Design. O foco desta atividade é familiarizar-se com a estrutura básica de uma aplicação Flutter e a navegação entre telas, sem a necessidade de persistência de dados.
+
+Requisitos:
+
+Estrutura do Aplicativo:
+
+Página Inicial: Deve exibir uma lista de notícias em formato de cards. Cada card deve conter um título, uma imagem ilustrativa e um breve resumo da notícia.
+Página de Detalhes: Ao clicar em um card na página inicial, o usuário deve ser levado a uma página de detalhes, onde a notícia é apresentada de forma completa.
+Design e Estilização:
+
+Material Design: O aplicativo deve seguir os princípios e diretrizes do Material Design, incluindo cores, ícones, tipografia e animações.
+AppBar: Inclua uma AppBar na parte superior das páginas, com o título do aplicativo na página inicial e o título da notícia na página de detalhes.
+Navegação: Implemente uma navegação fluida entre a página inicial e a página de detalhes, utilizando o widget Navigator.
+Componentes Básicos:
+
+Cards: Utilize o widget Card para apresentar cada notícia na página inicial.
+Imagens: Utilize imagens de exemplo (pode ser local ou de alguma API gratuita) para ilustrar cada notícia.
+Textos: Aplique diferentes estilos de texto para títulos, subtítulos e conteúdo, seguindo as diretrizes do Material Design.
+Instruções:
+
+Inicie criando a estrutura básica do aplicativo com uma página inicial e uma página de detalhes.
+Adicione alguns exemplos de notícias na página inicial, utilizando cards.
+Implemente a funcionalidade de navegação para que, ao clicar em uma notícia, o usuário seja levado à página de detalhes.
+Aplique estilização seguindo os princípios do Material Design, garantindo que o aplicativo tenha uma aparência moderna e profissional.
+Teste a navegação e a apresentação em diferentes dispositivos para garantir a responsividade.
+Entrega: Submeta o código-fonte do seu aplicativo, juntamente com capturas de tela das páginas implementadas. Além disso, inclua um breve relatório descrevendo as decisões de design tomadas e quaisquer desafios enfrentados durante o desenvolvimento.
